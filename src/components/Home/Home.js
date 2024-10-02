@@ -360,7 +360,7 @@ function Home() {
       {/* Footer and contacts section */}
       <div className="footer">
         <div className="footer_img_container">
-          <img src="\images\Untitled design (1).png" alt="" />
+          <img src="./images/Untitled design (1).png" alt="" />
           <h1>Gurazala Chaitanya Nanda Mohan</h1>
         </div>
         <div className="socials_container">
