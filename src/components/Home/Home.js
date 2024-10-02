@@ -32,7 +32,7 @@ function Home() {
     const loader = new GLTFLoader();
     let space_man;
     loader.load(
-      "/images/3december_2021_day_18_astronaut.glb",
+      "./images/3december_2021_day_18_astronaut.glb",
       function (gltf) {
         space_man = gltf.scene;
         scene.add(space_man);
