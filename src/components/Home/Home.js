@@ -138,7 +138,7 @@ function Home() {
       {/* Navigation bar */}
       <div className="nav_bar">
         <h1>G. Chaitanya</h1>
-        <img src="\images\Pink Typography Initial GC Logo (2).png" alt="" />
+        <img src="./images/Pink Typography Initial GC Logo (2).png" alt="" />
       </div>
 
       {/* Main Hero Section */}
@@ -256,7 +256,7 @@ function Home() {
       {/* Non-technical Skill Section */}
       <div className="Non_skills">
         <h1>SOFT SKILLS</h1>
-        <img src="/images/3d-casual-life-rocket.png" alt="" />
+        <img src="./images/3d-casual-life-rocket.png" alt="" />
         <div className="softSkills_container">
           <div className="softSkills_card">
             <h3>Leadership Skills</h3>
@@ -321,7 +321,7 @@ function Home() {
         <h1>PROJECTS</h1>
         <div className="projects_container">
           <div className="project_card">
-            <img src="\images\Screenshot 2024-10-02 200815.png" alt="" />
+            <img src="./images/Screenshot 2024-10-02 200815.png" alt="" />
             <div className="content">
               <h3>Community Service Project</h3>
               <h4> - Angular, Nodejs, Expressjs, Oracle, SQL</h4>
@@ -340,7 +340,7 @@ function Home() {
             </div>
           </div>
           <div className="project_card">
-            <img src="/images/image.png" alt="" />
+            <img src="./images/image.png" alt="" />
             <div className="content">
               <h3>Candle Online Store Product Landing Page</h3>
               <h4> - Reactjs, HTML, CSS, JavaScript</h4>
